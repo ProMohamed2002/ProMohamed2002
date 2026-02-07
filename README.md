@@ -14,12 +14,8 @@ I enjoy turning ideas into scalable, efficient, and clean software solutions.
 
 <details>
 <p><strong><summary>Busy coding & vibing to 🎧</summary></strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM)
 
 </div>
 
